@@ -4,7 +4,7 @@
 
 ## Introduction
 
-ComputorV1 is a project from the Advanced Algorithms branch at 42 School, designed to revisit fundamental mathematical tools useful across various subjects. The aim is to approach topics where mathematics is essential in a gradual and composed manner.
+ComputorV1 is a project from the Advanced Algorithms branch at 42 School, focused on solving polynomial equations of degree 2 in Python.
 
 ## Status:
 
